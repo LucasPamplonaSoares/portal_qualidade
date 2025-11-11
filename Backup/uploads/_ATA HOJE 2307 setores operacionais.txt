@@ -1,0 +1,14 @@
+ATA HOJE 23/07: setores operacionais: rh, contratos, sup (02 usuários), comercial já começou
+ 
+sistema VOIP teksea está funcionado 50% (verificar melhorias)
+ 
+Henry quer o mapa de quando digita o numero qual pessoa vai cair (rota de mapas dos ramais) quantas linhas simultâneas podem estar em um único numero
+ 
+starlink instalada a duas semanas e operando falta conexão no load balance chamar tecmais
+ 
+identificação dos notebooks lenovo e entregas
+ 
+máquinas novas nunca podem ser abertas
+ 
+comprar tomada e bateria 100a para ligar em série no servidor no nobreak - enxergar a autonomia da UPS
+ 

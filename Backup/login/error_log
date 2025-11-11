@@ -1,0 +1,52 @@
+[26-Aug-2025 07:53:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'teste_teksea'@'localhost' (using password: YES) in /home2/teksea22/public_html/portal/config/conexao.php:15
+Stack trace:
+#0 /home2/teksea22/public_html/portal/config/conexao.php(15): mysqli->__construct('localhost', 'teste_teksea', 'Tks@1100.*', 'testes_tekses')
+#1 /home2/teksea22/public_html/portal/login/processa_login.php(3): require_once('/home2/teksea22...')
+#2 {main}
+  thrown in /home2/teksea22/public_html/portal/config/conexao.php on line 15
+[26-Aug-2025 07:54:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'teste_teksea'@'localhost' (using password: YES) in /home2/teksea22/public_html/portal/config/conexao.php:15
+Stack trace:
+#0 /home2/teksea22/public_html/portal/config/conexao.php(15): mysqli->__construct('localhost', 'teste_teksea', 'Tks@1100.*', 'testes_tekses')
+#1 /home2/teksea22/public_html/portal/login/processa_login.php(3): require_once('/home2/teksea22...')
+#2 {main}
+  thrown in /home2/teksea22/public_html/portal/config/conexao.php on line 15
+[26-Aug-2025 07:55:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:9
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(9): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 9
+[26-Aug-2025 07:55:54 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:9
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(9): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 9
+[26-Aug-2025 07:58:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:9
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(9): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 9
+[26-Aug-2025 08:02:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:9
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(9): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 9
+[26-Aug-2025 08:05:50 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:9
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(9): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 9
+[26-Aug-2025 08:09:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:9
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(9): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 9
+[26-Aug-2025 14:52:37 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'teksea22_portal_fornecedores.Usuario' doesn't exist in /home2/teksea22/public_html/portal/login/processa_login.php:20
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(20): mysqli->prepare('\r\n    SELECT u....')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 20
+[26-Aug-2025 14:54:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'teksea22_lucas'@'br606.hostgator.com.br' (using password: YES) in /home2/teksea22/public_html/portal/login/processa_login.php:11
+Stack trace:
+#0 /home2/teksea22/public_html/portal/login/processa_login.php(11): mysqli->__construct('br606.hostgator...', 'teksea22_lucas', 'SUA_SENHA_AQUI', 'teksea22_portal...')
+#1 {main}
+  thrown in /home2/teksea22/public_html/portal/login/processa_login.php on line 11
